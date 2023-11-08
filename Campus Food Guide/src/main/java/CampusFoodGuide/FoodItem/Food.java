@@ -1,5 +1,9 @@
-package Food.FoodItem;
+package CampusFoodGuide.Food.FoodItem;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
 public class Food {
     private int calories;
     private double price;
