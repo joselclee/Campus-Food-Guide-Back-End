@@ -1,7 +1,7 @@
-package sorting;
+package CampusFoodGuide.sorting;
 
 import java.util.ArrayList;
-import Food.FoodItem.Food;
+import CampusFoodGuide.Food.FoodItem.Food;
 
 public class sortByCalories {
     

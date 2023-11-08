@@ -1,5 +1,5 @@
-package searching;
-import Food.FoodItem.Food;
+package CampusFoodGuide.searching;
+import CampusFoodGuide.Food.FoodItem.Food;
 import java.util.List; 
 
 public class searchByType {
